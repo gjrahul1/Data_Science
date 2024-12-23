@@ -1,2 +1,2 @@
-# Artifical_Intelligence
-This repository contains python file related to Artificial Intelligence.
+# Data_Science
+This repository contains my journey in learning Data Science.
