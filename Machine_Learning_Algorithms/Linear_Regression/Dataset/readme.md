@@ -1,2 +1,2 @@
-### Dataset
-- This section contains the dataset for the linear regression
+- **homeprices.csv:** This contains the two columns of house (sqft) and price.
+- **areas.csv:** This contains only the house (sqft) column. It is used to predict the price of the land/house.
