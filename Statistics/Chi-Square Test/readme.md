@@ -19,3 +19,6 @@ P-value: Indicates the probability of observing the data assuming the null hypot
 Null Hypothesis : A null Hypothesis is a general statistical statement or assumption about a population parameter that is assumed to be true Until we have sufficient evidence to reject it. It is generally denoted by Ho.
 
 Alternate Hypothesis : The Alternate Hypothesis is considered as competing of the null hypothesis. It is generally denoted by H1 . The general goal of our hypothesis testing is to test the Alternative hypothesis against the null hypothesis.
+
+##### References:
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chisquare.html
